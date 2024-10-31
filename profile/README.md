@@ -52,9 +52,8 @@ We welcome contributions! Please see our [Contributing Guidelines](https://githu
 
 ## Connect With Us 🌐
 
-- **Twitter**: [@thecodeid](https://twitter.com/thecodeid)
 - **LinkedIn**: [The Code ID](https://linkedin.com/company/thecodeid)
-- **Website**: [thecodeid.com](https://thecodeid.com)
+- **Website**: [thecodeid.com](https://thecode.id)
 
 ---
 
