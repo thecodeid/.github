@@ -1,4 +1,4 @@
-![The Code ID Banner](https://your-image-link.com/banner.png)
+<!-- ![The Code ID Banner](https://your-image-link.com/banner.png) -->
 
 # Welcome to The Code ID 👋
 
